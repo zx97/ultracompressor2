@@ -1,0 +1,6 @@
+# Normalize text files to LF (this is a Linux port).
+* text=auto eol=lf
+*.png binary
+*.bin binary
+*.jpg binary
+*.gif binary
